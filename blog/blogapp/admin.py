@@ -1,2 +1,2 @@
-from django.contrib import ad
-from models import post
+from django.contrib import admin
+from .models.post import Post
